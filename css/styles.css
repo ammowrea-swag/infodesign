@@ -94,6 +94,75 @@ img {
      display: none;
    }
 
+   /* Responsive image display - mobile first */
+.mobile{
+	display:block;
+}
+
+.tablet{
+	display:none;
+}
+
+.desktop{
+	display:none;
+}
+
+/* Tablet */
+@media (min-width: 481px) and (max-width: 768px) {
+	.mobile{
+		display:none;
+	}
+	.tablet{
+		display:block;
+	}
+	.desktop{
+		display:none;
+	}
+}
+
+/* Desktop */
+@media (min-width: 769px) {
+	.mobile{
+		display:none;
+	}
+	.tablet{
+		display:none;
+	}
+	.desktop{
+		display:block;
+	}
+}
+
+/* Mobile styles */
+@media (max-width:480px) {
+	.content{
+		width:90%;
+	}
+	.mobile{
+		display:block;
+	}
+	.tablet{
+		display:none;
+	}
+	.desktop{
+		display:none;
+	}
+	p{
+		font-size:14px;
+		padding-bottom: 1em;
+	}
+	.button-container{
+		text-align: center;
+	}
+
+	h1 {
+	    font-size: 20px;
+	    line-height: 1em;
+	    margin-bottom: 15px;
+	    margin-top: 15px;
+	}
+
+}
 
 /* Your styles go here */
 
@@ -338,5 +407,3 @@ h1{
 }
 
 /*Chart colors*/
-
-
