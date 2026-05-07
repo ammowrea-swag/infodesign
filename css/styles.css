@@ -1,7 +1,6 @@
 /*
  * styles.css
- *
- * @author: Chopping Block (choppinblock.com)
+
  *
  */
 /* http://meyerweb.com/eric/tools/css/reset/
@@ -148,7 +147,7 @@ img {
 		display:none;
 	}
 	p{
-		font-size:14px;
+		font-size: 0.875rem;
 		padding-bottom: 1em;
 	}
 	.button-container{
@@ -156,10 +155,10 @@ img {
 	}
 
 	h1 {
-	    font-size: 20px;
+	    font-size: 1.25rem;
 	    line-height: 1em;
-	    margin-bottom: 15px;
-	    margin-top: 15px;
+	    margin-bottom: 0.9375em;
+	    margin-top: 0.9375em;
 	}
 
 }
@@ -168,22 +167,22 @@ img {
 
 
 h1{ font-family: Helvetica, sans-serif;
-	font-size: 30px;
+	font-size: 1.875rem;
 	font-weight: bold;
 	color:#37424A;
 	text-align: left;
 	line-height: 2em;
-	margin-bottom: 10px;
-	margin-top: 20px;
+	margin-bottom: 0.625em;
+	margin-top: 1.25em;
 }
 
 h2 { font-family: newsreader, serif;
-	font-size: 18px;
+	font-size: 1.125rem;
 	color:#323332;
 	text-align: left;
 	line-height: 1em;
-	padding-bottom: 16px;
-	margin-bottom: 10px;
+	padding-bottom: 1em;
+	margin-bottom: 0.625em;
 	}
 
 a {
@@ -196,18 +195,18 @@ a {
 .first-graph:first-letter {
 	float: left;
 	color: #37424A;
-	font-size: 40px;
+	font-size: 2.5rem;
 	line-height: 1em;
-	padding-top: 4px;
-	padding-right: 10px;
-	padding-left: 3px;
+	padding-top: 0.25em;
+	padding-right: 0.625em;
+	padding-left: 0.1875em;
 	font-family: newsreader, serif;
 }
 
 
  p{
     font-family:  Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 1rem;
     line-height: 1.5em;
     color: #000000;
     padding-bottom: 1.5em;
@@ -220,21 +219,21 @@ div.wrap{
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		gap: 20px;
+		gap: 1.25rem;
 }
 
 .wrap p{
 	font-family: Helvetica, sans-serif;
 	color: #000000;
-	font-size: 14px;
+	font-size: 0.875rem;
 	line-height: 1.2em;
 }
 
 h1{
 	font-family: Helvetica, sans-serif;
 	color: #363636;
-	font-size: 20px;
-	margin-bottom: 20px;
+	font-size: 1.25rem;
+	margin-bottom: 1.25em;
 }
 
 .item{
@@ -251,8 +250,8 @@ h1{
 	color: #f2efe9;
 }
 
-.chart{ padding-top: 20px;
-		padding-bottom: 20px;
+.chart{ padding-top: 1.25rem;
+		padding-bottom: 1.25rem;
 
 }
 
@@ -263,9 +262,9 @@ h1{
     background-color:  #FFA500;
     font-weight: normal;
 	display: inline-block;
-    padding: 6px 12px;
+    padding: 0.375em 0.75em;
     margin-bottom: 0;
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: 400;
     line-height: 1.42857143;
     text-align: center;
@@ -381,10 +380,10 @@ h1{
 	}
 
 	h1 {
-	    font-size: 20px;
+	    font-size: 1.25rem;
 	    line-height: 1em;
-	    margin-bottom: 15px;
-	    margin-top: 15px;
+	    margin-bottom: 0.9375em;
+	    margin-top: 0.9375em;
 	}
 
 }
