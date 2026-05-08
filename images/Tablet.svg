@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 550 550">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-family: Helvetica-Oblique, Helvetica;
+        font-style: oblique;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #e34a33;
+      }
+
+      .cls-3, .cls-5, .cls-6, .cls-7 {
+        stroke: #000;
+      }
+
+      .cls-3, .cls-5, .cls-7 {
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-8, .cls-5 {
+        fill: #fdbb84;
+      }
+
+      .cls-9 {
+        font-size: 12px;
+      }
+
+      .cls-9, .cls-10, .cls-2 {
+        fill: #333;
+      }
+
+      .cls-9, .cls-11, .cls-12 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .cls-10 {
+        font-family: Marion-Regular, Marion;
+        font-size: 20px;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+      }
+
+      .cls-13, .cls-7 {
+        fill: #b30000;
+      }
+
+      .cls-14 {
+        fill: #241f20;
+        font-size: 11px;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+
+      .cls-12 {
+        font-size: 7.59px;
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <g id="Mobile">
+    <g id="viz">
+      <g>
+        <g id="JFK">
+          <rect class="cls-7" x="455.9" y="279.48" width="61.57" height="179.73"/>
+          <rect class="cls-7" x="390.06" y="358.34" width="61.57" height="100.87"/>
+          <rect class="cls-7" x="324.22" y="302.31" width="61.57" height="156.9"/>
+          <rect class="cls-7" x="258.39" y="313.93" width="61.57" height="145.28"/>
+          <rect class="cls-7" x="192.55" y="406.18" width="61.57" height="53.03"/>
+          <rect class="cls-7" x="126.71" y="419.05" width="61.57" height="40.16"/>
+          <rect class="cls-7" x="60.88" y="360.63" width="61.57" height="98.58"/>
+        </g>
+        <g id="LGA">
+          <rect class="cls-3" x="455.9" y="238.49" width="61.57" height="40.99"/>
+          <rect class="cls-3" x="390.06" y="312.27" width="61.57" height="46.08"/>
+          <rect class="cls-3" x="324.22" y="266.3" width="61.57" height="36.01"/>
+          <rect class="cls-3" x="258.39" y="258.83" width="61.57" height="55.1"/>
+          <rect class="cls-3" x="192.55" y="379.51" width="61.57" height="26.67"/>
+          <rect class="cls-3" x="126.71" y="394.04" width="61.57" height="25.01"/>
+          <rect class="cls-3" x="60.88" y="296.5" width="61.57" height="64.13"/>
+        </g>
+        <g id="Other_Queens" data-name="Other Queens">
+          <rect class="cls-5" x="455.9" y="181.83" width="61.57" height="56.66"/>
+          <rect class="cls-5" x="390.06" y="262.67" width="61.57" height="49.6"/>
+          <rect class="cls-5" x="324.22" y="225.72" width="61.57" height="40.58"/>
+          <rect class="cls-5" x="258.39" y="215.14" width="61.57" height="43.69"/>
+          <rect class="cls-5" x="192.55" y="347.14" width="61.57" height="32.38"/>
+          <rect class="cls-5" x="126.71" y="374.74" width="61.57" height="19.3"/>
+          <rect class="cls-5" x="60.88" y="168.23" width="61.57" height="128.26"/>
+        </g>
+        <g id="xAxis">
+          <path class="cls-6" d="M56.61,459.21h465.12"/>
+          <g>
+            <line class="cls-6" x1="91.66" y1="459.21" x2="91.66" y2="463.77"/>
+            <text class="cls-12" transform="translate(82.08 471.44) scale(1.13 1)"><tspan x="0" y="0">2019</tspan></text>
+          </g>
+          <g>
+            <line class="cls-6" x1="157.5" y1="459.21" x2="157.5" y2="463.77"/>
+            <text class="cls-12" transform="translate(147.92 471.44) scale(1.13 1)"><tspan x="0" y="0">2020</tspan></text>
+          </g>
+          <g>
+            <line class="cls-6" x1="223.34" y1="459.21" x2="223.34" y2="463.77"/>
+            <text class="cls-12" transform="translate(213.75 471.44) scale(1.13 1)"><tspan x="0" y="0">2021</tspan></text>
+          </g>
+          <g>
+            <line class="cls-6" x1="289.17" y1="459.21" x2="289.17" y2="463.77"/>
+            <text class="cls-12" transform="translate(279.59 471.44) scale(1.13 1)"><tspan x="0" y="0">2022</tspan></text>
+          </g>
+          <g>
+            <line class="cls-6" x1="355.01" y1="459.21" x2="355.01" y2="463.77"/>
+            <text class="cls-12" transform="translate(345.43 471.44) scale(1.13 1)"><tspan x="0" y="0">2023</tspan></text>
+          </g>
+          <g>
+            <line class="cls-6" x1="420.84" y1="459.21" x2="420.84" y2="463.77"/>
+            <text class="cls-12" transform="translate(411.26 471.44) scale(1.13 1)"><tspan x="0" y="0">2024</tspan></text>
+          </g>
+          <g>
+            <line class="cls-6" x1="486.68" y1="459.21" x2="486.68" y2="463.77"/>
+            <text class="cls-12" transform="translate(477.1 471.44) scale(1.13 1)"><tspan x="0" y="0">2025</tspan></text>
+          </g>
+        </g>
+        <g id="yAxis">
+          <path class="cls-6" d="M56.61,459.21V160.97"/>
+          <g>
+            <line class="cls-6" x1="56.61" y1="459.21" x2="51.44" y2="459.21"/>
+            <text class="cls-12" transform="translate(44.07 461.64) scale(1.13 1)"><tspan x="0" y="0">0</tspan></text>
+          </g>
+          <g>
+            <line class="cls-6" x1="56.61" y1="417.7" x2="51.44" y2="417.7"/>
+            <text class="cls-12" transform="translate(34.49 420.13) scale(1.13 1)"><tspan x="0" y="0">400</tspan></text>
+          </g>
+          <g>
+            <line class="cls-6" x1="56.61" y1="376.19" x2="51.44" y2="376.19"/>
+            <text class="cls-12" transform="translate(34.49 378.62) scale(1.13 1)"><tspan x="0" y="0">800</tspan></text>
+          </g>
+          <g>
+            <line class="cls-6" x1="56.61" y1="334.68" x2="51.44" y2="334.68"/>
+            <text class="cls-12" transform="translate(27.3 337.11) scale(1.13 1)"><tspan x="0" y="0">1,200</tspan></text>
+          </g>
+          <g>
+            <line class="cls-6" x1="56.61" y1="293.18" x2="51.44" y2="293.18"/>
+            <text class="cls-12" transform="translate(27.3 295.61) scale(1.13 1)"><tspan x="0" y="0">1,600</tspan></text>
+          </g>
+          <g>
+            <line class="cls-6" x1="56.61" y1="251.67" x2="51.44" y2="251.67"/>
+            <text class="cls-12" transform="translate(27.3 254.1) scale(1.13 1)"><tspan x="0" y="0">2,000</tspan></text>
+          </g>
+          <g>
+            <line class="cls-6" x1="56.61" y1="210.16" x2="51.44" y2="210.16"/>
+            <text class="cls-12" transform="translate(27.3 212.59) scale(1.13 1)"><tspan x="0" y="0">2,400</tspan></text>
+          </g>
+          <g>
+            <line class="cls-6" x1="56.61" y1="168.65" x2="51.44" y2="168.65"/>
+            <text class="cls-12" transform="translate(27.3 171.08) scale(1.13 1)"><tspan x="0" y="0">2,800</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Tablet">
+    <g id="Hed_sample" data-name="Hed sample">
+      <text class="cls-10" transform="translate(37.8 62.61)"><tspan x="0" y="0">Illegal Cab Citations Climb Near Airports in Queens</tspan></text>
+    </g>
+    <g id="Dek_sample" data-name="Dek sample">
+      <text class="cls-2" transform="translate(37.8 83.51)"><tspan x="0" y="0">Since 2020, police reports show increased citations for illegally operating </tspan><tspan x="0" y="14">vehicles for hire in Queens or near airports in the borough. </tspan></text>
+    </g>
+    <g id="source_sample" data-name="source sample">
+      <text class="cls-14" transform="translate(46.86 486.73)"><tspan class="cls-11"><tspan x="0" y="0">Source: NYC Records and Information Services</tspan></tspan><tspan class="cls-1"><tspan x="0" y="15">Ashley Mowreader</tspan></tspan></text>
+    </g>
+    <g>
+      <text class="cls-9" transform="translate(57.53 138.78)"><tspan x="0" y="0">JFK</tspan></text>
+      <rect class="cls-13" x="44" y="128.75" width="10" height="10"/>
+    </g>
+    <g>
+      <text class="cls-9" transform="translate(103.86 138.78) scale(.95 1)"><tspan x="0" y="0">LaGuardia</tspan></text>
+      <rect class="cls-4" x="88.94" y="128.75" width="10" height="10"/>
+    </g>
+    <g>
+      <text class="cls-9" transform="translate(178.35 138.78) scale(.95 1)"><tspan x="0" y="0">Other Queens Precincts</tspan></text>
+      <rect class="cls-8" x="163.43" y="128.75" width="10" height="10"/>
+    </g>
+  </g>
+</svg>
